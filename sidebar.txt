@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mdk:home|Door43 (mdk)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mdk|d43-mdk repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mdk/archive/master.zip|d43-mdk.zip]]
+
+**Recent Changes**
+{{changes>ns = mdk}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mdk|Ethnologue data]]
+
